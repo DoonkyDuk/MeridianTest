@@ -1,0 +1,13 @@
+﻿{
+	"Servers": {
+		"ServerName1": {
+			"IPAddress": "127.0.0.1",
+			"Port": "10000"
+		},
+		"ServerName2": {
+			"IPAddress": "127.0.0.1",
+			"Port": "10001"
+		}
+	}
+}
+

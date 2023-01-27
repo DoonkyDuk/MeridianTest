@@ -1,0 +1,15 @@
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\bin\Debug\net6.0\TestTcpServer1.exe
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\bin\Debug\net6.0\TestTcpServer1.deps.json
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\bin\Debug\net6.0\TestTcpServer1.runtimeconfig.json
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\bin\Debug\net6.0\TestTcpServer1.dll
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\bin\Debug\net6.0\TestTcpServer1.pdb
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.csproj.AssemblyReference.cache
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.AssemblyInfoInputs.cache
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.AssemblyInfo.cs
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.csproj.CoreCompileInputs.cache
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.dll
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\refint\TestTcpServer1.dll
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.pdb
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\TestTcpServer1.genruntimeconfig.cache
+C:\Users\topor\source\repos\TestTcpServer\TestTcpServer\obj\Debug\net6.0\ref\TestTcpServer1.dll

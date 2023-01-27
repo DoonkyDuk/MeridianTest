@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRPcMAAH3fKo46D5Irk7nC5tP77YLzbFYd7FqU/W1MfUfFfjbPp7Ag82Ci6yIbpD7mulstJZtlV0ehHp7tbEyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\topor\\source\\repos\\TestService\\TestService\\TestService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\topor\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

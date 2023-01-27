@@ -1,0 +1,17 @@
+C:\Users\topor\source\repos\TestService\TestService\bin\Debug\net6.0\TestService.exe
+C:\Users\topor\source\repos\TestService\TestService\bin\Debug\net6.0\TestService.deps.json
+C:\Users\topor\source\repos\TestService\TestService\bin\Debug\net6.0\TestService.runtimeconfig.json
+C:\Users\topor\source\repos\TestService\TestService\bin\Debug\net6.0\TestService.dll
+C:\Users\topor\source\repos\TestService\TestService\bin\Debug\net6.0\TestService.pdb
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.csproj.AssemblyReference.cache
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.AssemblyInfoInputs.cache
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.AssemblyInfo.cs
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.csproj.CoreCompileInputs.cache
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.dll
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\refint\TestService.dll
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.pdb
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.genruntimeconfig.cache
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\ref\TestService.dll
+C:\Users\topor\source\repos\TestService\TestService\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\topor\source\repos\TestService\TestService\obj\Debug\net6.0\TestService.csproj.CopyComplete

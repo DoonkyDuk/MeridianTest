@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestTcpServer1/1.0.0": {
+        "runtime": {
+          "TestTcpServer1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTcpServer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
